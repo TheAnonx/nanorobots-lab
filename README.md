@@ -34,6 +34,7 @@ Tamanho: 10–200 nm.
 Função: Manipulação molecular, reconhecimento químico, liberação lógica de cargas.
 Componentes: Origami de DNA, partículas funcionais.
 Responsabilidades: Executar tarefas extremamente precisas, servir como interface molecular.
+
 <img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/0e3fe735-ce5a-4b60-87be-fefe1b31544e" />
 --
 ## Energia e Controle
