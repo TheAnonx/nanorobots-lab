@@ -1,4 +1,4 @@
-Visão-geral (em 5 linhas)
+Visão-geral 
 
 Arquitetura hierárquica em múltiplas escalas: uma Semente (base de comando/energia), Generais (subestações + coordenação local) e Operários (µm–nm) que fazem o serviço fino.
 
