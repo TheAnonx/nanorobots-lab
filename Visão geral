@@ -1,0 +1,14 @@
+Visão-geral (em 5 linhas)
+
+Arquitetura hierárquica em múltiplas escalas: uma Semente (base de comando/energia), Generais (subestações + coordenação local) e Operários (µm–nm) que fazem o serviço fino.
+
+Energia & controle: campos magnéticos/ultra­sônicos externos alimentam/atuam microrrobôs; repetidores mm-scale estendem alcance; em nanoescala usa-se ação direta do campo (torque, gradientes)
+
+
+Integração: módulos se agrupam em blocos maiores (inspirado em programmable matter / claytronics e M-Blocks) para tarefas brutas. 
+
+
+Replicação segura: reprodução só em “fábricas-ninho” controladas, com “DNA digital” assinado/checado e reciclagem de defeituosos. (Evita “grey goo”.) 
+
+
+Aplicações viáveis primeiro: transporte/coleta seletiva, montagem/“tapetes” reconfiguráveis, liberação lógica de cargas; manufatura molecular total fica como meta de longo prazo.
