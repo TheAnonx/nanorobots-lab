@@ -1,4 +1,4 @@
-# Sistema de Colmeia de Nanorrobôs (Versão Otimizada)
+# Sistema de Colmeia de Nanorrobôs 
 
 ## Estrutura Hierárquica
 
