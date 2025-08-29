@@ -120,7 +120,7 @@ Uma arquitetura hierárquica *Semente → Generais → Obreiros/Macro → Operá
 
 ---
 
-# 3 — Extensões solicitadas (adicionadas integralmente)
+# 3 — Extensões (Plus do projeto)
 
 ### A) Variantes de robôs operários para sementes alternativas
 
@@ -223,7 +223,7 @@ Uma arquitetura hierárquica *Semente → Generais → Obreiros/Macro → Operá
 
 ---
 
-# 4 — Roadmap consolidado de P&D (integrado com novas seções)
+# 4 — Roadmap consolidado de P&D 
 
 **Fase A (6–12 meses)**
 
@@ -241,7 +241,7 @@ Uma arquitetura hierárquica *Semente → Generais → Obreiros/Macro → Operá
 
 ---
 
-# 5 — Métricas (KPIs) sugeridas
+# 5 — Métricas (KPIs) 
 
 - Eficiência WPT Semente→General (%) e perda térmica.
 - Precisão de posicionamento (µm).
@@ -252,7 +252,7 @@ Uma arquitetura hierárquica *Semente → Generais → Obreiros/Macro → Operá
 
 ---
 
-# 6 — Riscos, governança e salvaguardas (consolidadas)
+# 6 — Riscos, governança e salvaguardas 
 
 - **Risco principal:** replicação descontrolada (*grey goo*). Contenção: feedstock limitado, catalisadores exclusivos, assinatura crypto, quorum, killswitch.
 - **Risco ecológico/social:** impactos na microbiota, polinizadores, cadeias alimentares — exigir EIA.
