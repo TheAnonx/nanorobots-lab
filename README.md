@@ -50,7 +50,7 @@ Uma arquitetura hierárquica *Semente → Generais → Obreiros/Macro → Operá
 - Ferramentas: COMSOL/EM, LAMMPS/ReaxFF, Martini (coarse), NetLogo/MASON (agente), model checking (temporal logic).
 - Metas de simulação: eficiência WPT, hotspots térmicos, taxa de erro replicação, latência de coordenação.
 
-# 2 — Lista consolidada de artigos, revisões e leituras mencionadas nesta conversa
+# 2 — Lista consolidada de artigos, revisões e leituras 
 
 ## Fundamentos & debate histórico
 
