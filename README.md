@@ -2,7 +2,7 @@
 
 Uma arquitetura hierárquica *Semente → Generais → Obreiros/Macro → Operários (micro / nano)* combinando top-down (microfabricação) e bottom-up (DNA-origami / self-assembly). Energia e controle híbridos (WPT indutivo/resonante, campos magnéticos rotativos, ultrassom, comunicação química/estigmergia). Replicação **restrita e auditada** (fábrica-ninho da Semente, DNA híbrido — digital + físico, quorum, kill-switch). Salvaguardas (limitação de feedstock, assinaturas criptográficas, reciclagem de defeituosos, verificação formal). O sistema admite variações: sementes biomédicas, ambientais, espaciais e até “bio-sementes” híbridas. Também descreve redundância em múltiplas redes de informação e um conceito de **semente data-center** para construção em ambientes remotos.
 
-# 1 — Projeto detalhado — Versão otimizada (integradora, técnica-conceitual)
+# 1 — Projeto detalhado — Versão otimizada 
 
 ### 1.1 Arquitetura Hierárquica (camadas e papéis)
 
@@ -51,8 +51,6 @@ Uma arquitetura hierárquica *Semente → Generais → Obreiros/Macro → Operá
 - Metas de simulação: eficiência WPT, hotspots térmicos, taxa de erro replicação, latência de coordenação.
 
 # 2 — Lista consolidada de artigos, revisões e leituras mencionadas nesta conversa
-
-(A lista abaixo reúne **todas** as referências citadas ao longo de suas mensagens e das minhas respostas. Coloquei títulos/descritivos e links/identificadores quando citados anteriormente.)
 
 ## Fundamentos & debate histórico
 
